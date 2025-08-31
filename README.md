@@ -19,27 +19,66 @@ Our repository includes databases from:
 
 ## Repository Structure
 
-### 📁 Database Files
+This repository is organized into specialized directories for different types of analysis and data storage:
+
 ```
-Mushafs/
-├── 01-indopak-13-lines-layout-qudratullah.db/
-├── 02-qpc-v1-15-lines.db/
-├── 03-uthmani-15-lines.db/
-├── 04-digital-khatt-15-lines.db/
-├── 05-indopak-13-lines-taj-company.db/
-├── 06-qpc-hafs-15-lines.db/
-├── 07-qpc-nastaleeq-15-lines.db/
-├── 08-qpc-v2-15-lines.db/
-├── 09-qudratullah-indopak-15-lines.db/
-├── 10-taj-indopak-16-lines.db/
-└── 11-qpc-v4-tajweed-15-lines.db/
+_UQSAD/
+├── 📁 data/                      # Data storage directory
+│   ├── 📁 Mushafs/              # Mushaf database files
+│   │   ├── 01-indopak-13-lines-layout-qudratullah.db/
+│   │   ├── 02-qpc-v1-15-lines.db/
+│   │   ├── 03-uthmani-15-lines.db/
+│   │   ├── 04-digital-khatt-15-lines.db/
+│   │   ├── 05-indopak-13-lines-taj-company.db/
+│   │   ├── 06-qpc-hafs-15-lines.db/
+│   │   ├── 07-qpc-nastaleeq-15-lines.db/
+│   │   ├── 08-qpc-v2-15-lines.db/
+│   │   ├── 09-qudratullah-indopak-15-lines.db/
+│   │   ├── 10-taj-indopak-16-lines.db/
+│   │   └── 11-qpc-v4-tajweed-15-lines.db/
+│   └── ...                      # Other data files
+├── 📁 r-analysis/               # R-based analysis tools
+│   ├── Main R Notebook.Rmd
+│   ├── Main R Notebook.nb.html
+│   ├── Mushaf Statistics Analysis.Rmd
+│   └── Mushaf Statistics Analysis.nb.html
+├── 📁 python-analysis/          # Python-based analysis tools (ready for implementation)
+├── 📁 docs/                     # Documentation files (ready for use)
+├── 📄 README.md                 # Project documentation
+├── 📄 Quran-Hafs-Mushafs-References.xlsx  # Reference data
+├── 📄 Unified-Quranic-Syntax-Adapted-Database-UQSAD.Rproj  # R project file
+├── 🔒 renv/                     # R environment management
+└── 🔒 renv.lock                 # R dependency lock file
 ```
 
-Each database contains SQLite files with detailed page layouts, word positioning, and Quranic text organization.
+### 📁 Directory Organization
+
+#### `data/`
+Contains all database files and datasets:
+- **`Mushafs/`**: SQLite databases with detailed page layouts, word positioning, and Quranic text organization
+- Additional data files and references
+
+#### `r-analysis/`
+R-based analysis notebooks and outputs:
+- Statistical analysis and exploration scripts
+- Generated HTML reports
+- Database comparison tools
+
+#### `python-analysis/`
+Ready for Python-based analysis implementation:
+- Data science and machine learning analysis
+- Alternative statistical approaches
+- Visualization tools
+
+#### `docs/`
+Documentation and additional resources:
+- Technical documentation
+- Research papers and references
+- User guides
 
 ### 📊 Analysis Notebooks
 
-#### 1. Main R Notebook ([View Full Notebook](./Main%20R%20Notebook.Rmd))
+#### 1. Main R Notebook ([View Full Notebook](./r-analysis/Main%20R%20Notebook.Rmd))
 
 **Purpose**: Core database exploration and structure analysis
 
@@ -61,7 +100,7 @@ Each database contains SQLite files with detailed page layouts, word positioning
 
 
 
-#### 2. Mushaf Statistics Analysis ([View Full Notebook](./Mushaf%20Statistics%20Analysis.Rmd))
+#### 2. Mushaf Statistics Analysis ([View Full Notebook](./r-analysis/Mushaf%20Statistics%20Analysis.Rmd))
 
 **Purpose**: Deep statistical analysis and comparative metrics
 
@@ -169,8 +208,8 @@ Each Mushaf database contains:
    ```
 
 2. **Run Analysis**: Open either notebook in RStudio
-   - For exploration: [Main R Notebook.Rmd](./Main%20R%20Notebook.Rmd)
-   - For statistics: [Mushaf Statistics Analysis.Rmd](./Mushaf%20Statistics%20Analysis.Rmd)
+   - For exploration: [Main R Notebook.Rmd](./r-analysis/Main%20R%20Notebook.Rmd)
+   - For statistics: [Mushaf Statistics Analysis.Rmd](./r-analysis/Mushaf%20Statistics%20Analysis.Rmd)
 
 3. **View Results**: Generated HTML reports provide interactive analysis results
 
