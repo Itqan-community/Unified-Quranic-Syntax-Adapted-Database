@@ -1,0 +1,148 @@
+{
+  "extraction_settings": {
+    "request_timeout": 30,
+    "request_delay": 1,
+    "max_retries": 3,
+    "output_directory": "extracted_data",
+    "log_level": "INFO"
+  },
+  
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  
+  "download_patterns": [
+    "download",
+    "get",
+    "fetch",
+    "retrieve",
+    "save",
+    "export",
+    "تحميل",
+    "تنزيل",
+    "حفظ"
+  ],
+  
+  "file_format_patterns": [
+    "\\.pdf", "\\.doc", "\\.docx", "\\.txt", "\\.rtf",
+    "\\.xls", "\\.xlsx", "\\.csv",
+    "\\.zip", "\\.rar", "\\.tar", "\\.gz",
+    "\\.json", "\\.xml", "\\.html", "\\.htm",
+    "\\.sqlite", "\\.db", "\\.sql",
+    "\\.epub", "\\.mobi", "\\.azw3"
+  ],
+  
+  "person_indicators": [
+    "author", "by", "creator", "contributor", "researcher",
+    "scholar", "writer", "compiled", "prepared", "edited",
+    "الشيخ", "الدكتور", "الأستاذ", "المؤلف", "الباحث",
+    "dr", "prof", "professor", "sheikh", "imam"
+  ],
+  
+  "css_selectors": {
+    "download_buttons": [
+      "[class*='download']", "[id*='download']",
+      "[class*='get']", "[id*='get']",
+      "[data-download]", "[data-file]",
+      ".btn-download", ".download-btn",
+      ".file-download", ".resource-download"
+    ],
+    
+    "description_elements": [
+      ".description", ".summary", ".abstract",
+      ".content", ".details", ".info",
+      "[name='description']", ".resource-description"
+    ],
+    
+    "tag_elements": [
+      ".tag", ".tags", ".category", ".categories",
+      "[class*='tag']", "[class*='category']",
+      ".keywords", ".subjects", ".topics"
+    ],
+    
+    "person_elements": [
+      ".author", ".creator", ".contributor",
+      ".by-line", ".byline", ".author-info",
+      "[class*='author']", "[class*='creator']"
+    ]
+  },
+  
+  "meta_tag_mappings": {
+    "title": ["og:title", "twitter:title", "title"],
+    "description": ["og:description", "twitter:description", "description"],
+    "author": ["author", "creator", "dc.creator", "article:author"],
+    "keywords": ["keywords", "tags", "dc.subject"],
+    "type": ["og:type", "twitter:card", "dc.type"],
+    "url": ["og:url", "twitter:url", "canonical"]
+  },
+  
+  "extraction_strategies": {
+    "download_links": {
+      "direct_links": true,
+      "button_elements": true,
+      "form_submissions": true,
+      "javascript_handlers": true,
+      "data_attributes": true
+    },
+    
+    "file_formats": {
+      "from_urls": true,
+      "from_headers": true,
+      "from_text": true,
+      "from_context": true
+    },
+    
+    "person_extraction": {
+      "nearby_elements": true,
+      "meta_tags": true,
+      "structured_data": true,
+      "pattern_matching": true
+    }
+  },
+  
+  "output_formats": {
+    "json": {
+      "enabled": true,
+      "pretty_print": true,
+      "include_metadata": true
+    },
+    "csv": {
+      "enabled": true,
+      "delimiter": ",",
+      "encoding": "utf-8"
+    }
+  },
+  
+  "site_specific_configs": {
+    "example.com": {
+      "download_patterns": ["download", "get-file"],
+      "person_selectors": [".author-name", ".contributor"],
+      "description_selectors": [".resource-summary"]
+    },
+    
+    "archive.org": {
+      "download_patterns": ["download", "view", "access"],
+      "file_format_patterns": ["\\.pdf", "\\.epub", "\\.txt", "\\.djvu"],
+      "person_selectors": [".creator", ".contributor", ".by"]
+    },
+    
+    "github.com": {
+      "download_patterns": ["download", "clone", "code"],
+      "person_selectors": [".author", ".commit-author"],
+      "tag_selectors": [".topic-tag", ".language"]
+    }
+  },
+  
+  "logging": {
+    "file_logging": true,
+    "console_logging": true,
+    "log_format": "%(asctime)s - %(levelname)s - %(message)s",
+    "max_log_size": "10MB",
+    "backup_count": 5
+  },
+  
+  "validation": {
+    "url_validation": true,
+    "file_extension_validation": true,
+    "minimum_metadata_fields": ["url", "resource_name", "extraction_timestamp"],
+    "required_fields_validation": true
+  }
+}

@@ -1,0 +1,12 @@
+2025-08-31 17:03:02,389 - INFO - Fetching page: https://qul.tarteel.ai/resources/quran-script
+2025-08-31 17:03:04,028 - INFO - Successfully parsed page with 1035 elements
+2025-08-31 17:03:04,078 - INFO - Found 171 potential download elements
+2025-08-31 17:03:04,538 - INFO - Successfully extracted metadata for https://qul.tarteel.ai/resources/quran-script
+2025-08-31 17:03:04,539 - INFO - Results saved to test_results\test_quranic_script_text.json
+2025-08-31 17:03:04,540 - INFO - Fetching page: https://quranenc.com/en/home
+2025-08-31 17:03:05,353 - INFO - Successfully parsed page with 3974 elements
+2025-08-31 17:03:05,564 - INFO - Found 235 potential download elements
+2025-08-31 17:03:06,064 - INFO - Successfully extracted metadata for https://quranenc.com/en/home
+2025-08-31 17:03:06,074 - INFO - Results saved to test_results\test_quran_translation.json
+2025-08-31 17:03:06,075 - INFO - Results saved to test_results\combined_quran_sites.json
+2025-08-31 17:03:06,076 - INFO - Results saved to test_results\combined_quran_sites.csv
