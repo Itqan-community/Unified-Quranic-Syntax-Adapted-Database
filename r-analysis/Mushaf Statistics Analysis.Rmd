@@ -113,7 +113,7 @@ cat("📅 Analysis started at:", format(start_time), "\n")
 
 ```{r database_setup}
 # Define the base directory where all Mushaf databases are stored
-base_path <- "../data/Mushafs"
+base_path <- "../data/QUL-Hafs-Mushafs-Mapping"
 
 # Create comprehensive database information table
 db_info <- tibble(

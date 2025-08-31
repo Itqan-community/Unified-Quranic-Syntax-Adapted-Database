@@ -24,7 +24,7 @@ This repository is organized into specialized directories for different types of
 ```
 _UQSAD/
 ├── 📁 data/                      # Data storage directory
-│   ├── 📁 Mushafs/              # Mushaf database files
+│   ├── 📁 QUL-Hafs-Mushafs-Mapping/  # QUL Hafs Mushaf database files
 │   │   ├── 01-indopak-13-lines-layout-qudratullah.db/
 │   │   ├── 02-qpc-v1-15-lines.db/
 │   │   ├── 03-uthmani-15-lines.db/
@@ -55,7 +55,7 @@ _UQSAD/
 
 #### `data/`
 Contains all database files and datasets:
-- **`Mushafs/`**: SQLite databases with detailed page layouts, word positioning, and Quranic text organization
+- **`QUL-Hafs-Mushafs-Mapping/`**: QUL Hafs Mushaf SQLite databases with detailed page layouts, word positioning, and Quranic text organization
 - Additional data files and references
 
 #### `r-analysis/`

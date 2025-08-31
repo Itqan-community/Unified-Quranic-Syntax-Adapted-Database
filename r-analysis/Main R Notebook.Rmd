@@ -65,7 +65,7 @@ library(tibble)
 ## Database Paths
 
 ```{r database_paths}
-base_path <- "../data/Mushafs"
+base_path <- "../data/QUL-Hafs-Mushafs-Mapping"
 
 # Create a structured tibble (data frame) containing information about all 11 databases
 db_info <- tibble(
