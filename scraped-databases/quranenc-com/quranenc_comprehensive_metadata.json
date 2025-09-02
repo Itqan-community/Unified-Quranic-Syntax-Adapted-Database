@@ -1,0 +1,1368 @@
+{
+  "scrape_info": {
+    "source_website": "https://quranenc.com",
+    "scrape_date": "2025-09-01T02:06:16.523770",
+    "scraper_version": "1.0",
+    "total_translations_processed": 41,
+    "total_files_downloaded": 133,
+    "total_size_bytes": 1100358924,
+    "total_size_mb": 1049.38,
+    "total_size_gb": 1.02
+  },
+  "file_types_summary": {
+    ".csv": {
+      "count": 24,
+      "total_size_mb": 36.14
+    },
+    ".xlsx": {
+      "count": 20,
+      "total_size_mb": 10.060000000000002
+    },
+    ".xml": {
+      "count": 24,
+      "total_size_mb": 47.11000000000001
+    },
+    ".json": {
+      "count": 41,
+      "total_size_mb": 150.43000000000006
+    },
+    ".epub": {
+      "count": 6,
+      "total_size_mb": 6.34
+    },
+    ".pdf": {
+      "count": 18,
+      "total_size_mb": 799.3199999999999
+    }
+  },
+  "translations": [
+    {
+      "directory": "albanian_nahi_Albanian_Translation_Hasan_Nahi",
+      "translation_key": "albanian",
+      "files_count": 4,
+      "total_size_bytes": 6671439,
+      "total_size_mb": 6.36,
+      "files": [
+        {
+          "filename": "quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1119021,
+          "size_mb": 1.07,
+          "relative_path": "translations\\albanian_nahi_Albanian_Translation_Hasan_Nahi\\quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_csv.csv"
+        },
+        {
+          "filename": "quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 468454,
+          "size_mb": 0.45,
+          "relative_path": "translations\\albanian_nahi_Albanian_Translation_Hasan_Nahi\\quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1597230,
+          "size_mb": 1.52,
+          "relative_path": "translations\\albanian_nahi_Albanian_Translation_Hasan_Nahi\\quranenc_albanian_nahi_Albanian_Translation_Hasan_Nahi_xml.xml"
+        },
+        {
+          "filename": "quranenc_albanian_nahi_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3486734,
+          "size_mb": 3.33,
+          "relative_path": "translations\\albanian_nahi_Albanian_Translation_Hasan_Nahi\\quranenc_albanian_nahi_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "azeri_musayev_Azerbaijani_translation_Alikhan_Musayev",
+      "translation_key": "azeri",
+      "files_count": 7,
+      "total_size_bytes": 195254603,
+      "total_size_mb": 186.21,
+      "files": [
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev.epub",
+          "extension": ".epub",
+          "size_bytes": 1033330,
+          "size_mb": 0.99,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev.epub"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev.pdf",
+          "extension": ".pdf",
+          "size_bytes": 167711781,
+          "size_mb": 159.94,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev.pdf"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1084913,
+          "size_mb": 1.03,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_csv.csv"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 433228,
+          "size_mb": 0.41,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 19980182,
+          "size_mb": 19.05,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_pure.pdf"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1558580,
+          "size_mb": 1.49,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_Azerbaijani_translation_Alikhan_Musayev_xml.xml"
+        },
+        {
+          "filename": "quranenc_azeri_musayev_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3452589,
+          "size_mb": 3.29,
+          "relative_path": "translations\\azeri_musayev_Azerbaijani_translation_Alikhan_Musayev\\quranenc_azeri_musayev_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "bisayan_rwwad_Filipino_translation_(Bisayan)_Rowwad_Translation_Center",
+      "translation_key": "bisayan",
+      "files_count": 1,
+      "total_size_bytes": 3717472,
+      "total_size_mb": 3.55,
+      "files": [
+        {
+          "filename": "quranenc_bisayan_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3717472,
+          "size_mb": 3.55,
+          "relative_path": "translations\\bisayan_rwwad_Filipino_translation_(Bisayan)_Rowwad_Translation_Center\\quranenc_bisayan_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "bosnian_mihanovich_Bosnian_Translation_Muhammad_Mihanovich",
+      "translation_key": "bosnian",
+      "files_count": 1,
+      "total_size_bytes": 3245418,
+      "total_size_mb": 3.1,
+      "files": [
+        {
+          "filename": "quranenc_bosnian_mihanovich_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3245418,
+          "size_mb": 3.1,
+          "relative_path": "translations\\bosnian_mihanovich_Bosnian_Translation_Muhammad_Mihanovich\\quranenc_bosnian_mihanovich_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "bosnian_rwwad_Bosnian_Translation_Rowwad_Translation_Centre",
+      "translation_key": "bosnian",
+      "files_count": 2,
+      "total_size_bytes": 49958993,
+      "total_size_mb": 47.64,
+      "files": [
+        {
+          "filename": "quranenc_bosnian_rwwad_Bosnian_Translation_Rowwad_Translation_Centre.pdf",
+          "extension": ".pdf",
+          "size_bytes": 46706675,
+          "size_mb": 44.54,
+          "relative_path": "translations\\bosnian_rwwad_Bosnian_Translation_Rowwad_Translation_Centre\\quranenc_bosnian_rwwad_Bosnian_Translation_Rowwad_Translation_Centre.pdf"
+        },
+        {
+          "filename": "quranenc_bosnian_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3252318,
+          "size_mb": 3.1,
+          "relative_path": "translations\\bosnian_rwwad_Bosnian_Translation_Rowwad_Translation_Centre\\quranenc_bosnian_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "chinese_makin_Chinese_Translation_Muhammad_Makin",
+      "translation_key": "chinese",
+      "files_count": 4,
+      "total_size_bytes": 5767748,
+      "total_size_mb": 5.5,
+      "files": [
+        {
+          "filename": "quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 845313,
+          "size_mb": 0.81,
+          "relative_path": "translations\\chinese_makin_Chinese_Translation_Muhammad_Makin\\quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_csv.csv"
+        },
+        {
+          "filename": "quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 390790,
+          "size_mb": 0.37,
+          "relative_path": "translations\\chinese_makin_Chinese_Translation_Muhammad_Makin\\quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1318659,
+          "size_mb": 1.26,
+          "relative_path": "translations\\chinese_makin_Chinese_Translation_Muhammad_Makin\\quranenc_chinese_makin_Chinese_Translation_Muhammad_Makin_xml.xml"
+        },
+        {
+          "filename": "quranenc_chinese_makin_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3212986,
+          "size_mb": 3.06,
+          "relative_path": "translations\\chinese_makin_Chinese_Translation_Muhammad_Makin\\quranenc_chinese_makin_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "chinese_suliman_Chinese_translation_Muhammad_Sulaiman",
+      "translation_key": "chinese",
+      "files_count": 7,
+      "total_size_bytes": 359516939,
+      "total_size_mb": 342.86,
+      "files": [
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman.epub",
+          "extension": ".epub",
+          "size_bytes": 972928,
+          "size_mb": 0.93,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman.epub"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman.pdf",
+          "extension": ".pdf",
+          "size_bytes": 281920749,
+          "size_mb": 268.86,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman.pdf"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 854332,
+          "size_mb": 0.81,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_csv.csv"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 393341,
+          "size_mb": 0.38,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 70825903,
+          "size_mb": 67.54,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_pure.pdf"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1327685,
+          "size_mb": 1.27,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_Chinese_translation_Muhammad_Sulaiman_xml.xml"
+        },
+        {
+          "filename": "quranenc_chinese_suliman_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3222001,
+          "size_mb": 3.07,
+          "relative_path": "translations\\chinese_suliman_Chinese_translation_Muhammad_Sulaiman\\quranenc_chinese_suliman_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "croatian_rwwad_Croatian_translation_Rowwad_Translation_Center",
+      "translation_key": "croatian",
+      "files_count": 1,
+      "total_size_bytes": 3246975,
+      "total_size_mb": 3.1,
+      "files": [
+        {
+          "filename": "quranenc_croatian_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3246975,
+          "size_mb": 3.1,
+          "relative_path": "translations\\croatian_rwwad_Croatian_translation_Rowwad_Translation_Center\\quranenc_croatian_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "dutch_center_Dutch_translation_Rowwad_Translation_Center",
+      "translation_key": "dutch",
+      "files_count": 4,
+      "total_size_bytes": 37175662,
+      "total_size_mb": 35.45,
+      "files": [
+        {
+          "filename": "quranenc_dutch_center_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3539609,
+          "size_mb": 3.38,
+          "relative_path": "translations\\dutch_center_Dutch_translation_Rowwad_Translation_Center\\quranenc_dutch_center_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1147011,
+          "size_mb": 1.09,
+          "relative_path": "translations\\dutch_center_Dutch_translation_Rowwad_Translation_Center\\quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 30866679,
+          "size_mb": 29.44,
+          "relative_path": "translations\\dutch_center_Dutch_translation_Rowwad_Translation_Center\\quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_pure.pdf"
+        },
+        {
+          "filename": "quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1622363,
+          "size_mb": 1.55,
+          "relative_path": "translations\\dutch_center_Dutch_translation_Rowwad_Translation_Center\\quranenc_dutch_center_Dutch_translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "english_hilali_khan_English_Translation_Hilali_and_Khan",
+      "translation_key": "english",
+      "files_count": 4,
+      "total_size_bytes": 8465987,
+      "total_size_mb": 8.07,
+      "files": [
+        {
+          "filename": "quranenc_english_hilali_khan_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4045238,
+          "size_mb": 3.86,
+          "relative_path": "translations\\english_hilali_khan_English_Translation_Hilali_and_Khan\\quranenc_english_hilali_khan_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1654373,
+          "size_mb": 1.58,
+          "relative_path": "translations\\english_hilali_khan_English_Translation_Hilali_and_Khan\\quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_csv.csv"
+        },
+        {
+          "filename": "quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 635495,
+          "size_mb": 0.61,
+          "relative_path": "translations\\english_hilali_khan_English_Translation_Hilali_and_Khan\\quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2130881,
+          "size_mb": 2.03,
+          "relative_path": "translations\\english_hilali_khan_English_Translation_Hilali_and_Khan\\quranenc_english_hilali_khan_English_Translation_Hilali_and_Khan_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "english_rwwad_English_translation_Rowwad_Translation_Center",
+      "translation_key": "english",
+      "files_count": 2,
+      "total_size_bytes": 13798753,
+      "total_size_mb": 13.16,
+      "files": [
+        {
+          "filename": "quranenc_english_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3558590,
+          "size_mb": 3.39,
+          "relative_path": "translations\\english_rwwad_English_translation_Rowwad_Translation_Center\\quranenc_english_rwwad_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_english_rwwad_English_translation_Rowwad_Translation_Center.pdf",
+          "extension": ".pdf",
+          "size_bytes": 10240163,
+          "size_mb": 9.77,
+          "relative_path": "translations\\english_rwwad_English_translation_Rowwad_Translation_Center\\quranenc_english_rwwad_English_translation_Rowwad_Translation_Center.pdf"
+        }
+      ]
+    },
+    {
+      "directory": "english_saheeh_English_Translation_Noor_International_Center",
+      "translation_key": "english",
+      "files_count": 1,
+      "total_size_bytes": 3514117,
+      "total_size_mb": 3.35,
+      "files": [
+        {
+          "filename": "quranenc_english_saheeh_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3514117,
+          "size_mb": 3.35,
+          "relative_path": "translations\\english_saheeh_English_Translation_Noor_International_Center\\quranenc_english_saheeh_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "french_montada_French_translation_issued_by_Noor_International",
+      "translation_key": "french",
+      "files_count": 1,
+      "total_size_bytes": 3569209,
+      "total_size_mb": 3.4,
+      "files": [
+        {
+          "filename": "quranenc_french_montada_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3569209,
+          "size_mb": 3.4,
+          "relative_path": "translations\\french_montada_French_translation_issued_by_Noor_International\\quranenc_french_montada_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "french_rashid_French_translation_Rashid_Maash",
+      "translation_key": "french",
+      "files_count": 6,
+      "total_size_bytes": 45997140,
+      "total_size_mb": 43.87,
+      "files": [
+        {
+          "filename": "quranenc_french_rashid_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3682009,
+          "size_mb": 3.51,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_french_rashid_French_translation_Rashid_Maash.pdf",
+          "extension": ".pdf",
+          "size_bytes": 19326006,
+          "size_mb": 18.43,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_French_translation_Rashid_Maash.pdf"
+        },
+        {
+          "filename": "quranenc_french_rashid_French_translation_Rashid_Maash_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1314032,
+          "size_mb": 1.25,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_French_translation_Rashid_Maash_csv.csv"
+        },
+        {
+          "filename": "quranenc_french_rashid_French_translation_Rashid_Maash_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 546030,
+          "size_mb": 0.52,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_French_translation_Rashid_Maash_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_french_rashid_French_translation_Rashid_Maash_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 19326006,
+          "size_mb": 18.43,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_French_translation_Rashid_Maash_pure.pdf"
+        },
+        {
+          "filename": "quranenc_french_rashid_French_translation_Rashid_Maash_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1803057,
+          "size_mb": 1.72,
+          "relative_path": "translations\\french_rashid_French_translation_Rashid_Maash\\quranenc_french_rashid_French_translation_Rashid_Maash_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "german_bubenheim_German_Translation_Frank_Bubenheim",
+      "translation_key": "german",
+      "files_count": 4,
+      "total_size_bytes": 6433584,
+      "total_size_mb": 6.14,
+      "files": [
+        {
+          "filename": "quranenc_german_bubenheim_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3430098,
+          "size_mb": 3.27,
+          "relative_path": "translations\\german_bubenheim_German_Translation_Frank_Bubenheim\\quranenc_german_bubenheim_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1049952,
+          "size_mb": 1.0,
+          "relative_path": "translations\\german_bubenheim_German_Translation_Frank_Bubenheim\\quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_csv.csv"
+        },
+        {
+          "filename": "quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 430229,
+          "size_mb": 0.41,
+          "relative_path": "translations\\german_bubenheim_German_Translation_Frank_Bubenheim\\quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1523305,
+          "size_mb": 1.45,
+          "relative_path": "translations\\german_bubenheim_German_Translation_Frank_Bubenheim\\quranenc_german_bubenheim_German_Translation_Frank_Bubenheim_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "indonesian_affairs_Indonesian_translation_Ministry_of_Religious_Affairs",
+      "translation_key": "indonesian",
+      "files_count": 1,
+      "total_size_bytes": 3708293,
+      "total_size_mb": 3.54,
+      "files": [
+        {
+          "filename": "quranenc_indonesian_affairs_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3708293,
+          "size_mb": 3.54,
+          "relative_path": "translations\\indonesian_affairs_Indonesian_translation_Ministry_of_Religious_Affairs\\quranenc_indonesian_affairs_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "indonesian_complex_Indonesian_translation_The_Assembly",
+      "translation_key": "indonesian",
+      "files_count": 4,
+      "total_size_bytes": 7924516,
+      "total_size_mb": 7.56,
+      "files": [
+        {
+          "filename": "quranenc_indonesian_complex_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3879819,
+          "size_mb": 3.7,
+          "relative_path": "translations\\indonesian_complex_Indonesian_translation_The_Assembly\\quranenc_indonesian_complex_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_indonesian_complex_Indonesian_translation_The_Assembly_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1511881,
+          "size_mb": 1.44,
+          "relative_path": "translations\\indonesian_complex_Indonesian_translation_The_Assembly\\quranenc_indonesian_complex_Indonesian_translation_The_Assembly_csv.csv"
+        },
+        {
+          "filename": "quranenc_indonesian_complex_Indonesian_translation_The_Assembly_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 535422,
+          "size_mb": 0.51,
+          "relative_path": "translations\\indonesian_complex_Indonesian_translation_The_Assembly\\quranenc_indonesian_complex_Indonesian_translation_The_Assembly_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_indonesian_complex_Indonesian_translation_The_Assembly_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1997394,
+          "size_mb": 1.9,
+          "relative_path": "translations\\indonesian_complex_Indonesian_translation_The_Assembly\\quranenc_indonesian_complex_Indonesian_translation_The_Assembly_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "indonesian_sabiq_Indonesian_Translation_Sabeq_Company",
+      "translation_key": "indonesian",
+      "files_count": 4,
+      "total_size_bytes": 7466966,
+      "total_size_mb": 7.12,
+      "files": [
+        {
+          "filename": "quranenc_indonesian_sabiq_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3739181,
+          "size_mb": 3.57,
+          "relative_path": "translations\\indonesian_sabiq_Indonesian_Translation_Sabeq_Company\\quranenc_indonesian_sabiq_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1371230,
+          "size_mb": 1.31,
+          "relative_path": "translations\\indonesian_sabiq_Indonesian_Translation_Sabeq_Company\\quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_csv.csv"
+        },
+        {
+          "filename": "quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 502969,
+          "size_mb": 0.48,
+          "relative_path": "translations\\indonesian_sabiq_Indonesian_Translation_Sabeq_Company\\quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1853586,
+          "size_mb": 1.77,
+          "relative_path": "translations\\indonesian_sabiq_Indonesian_Translation_Sabeq_Company\\quranenc_indonesian_sabiq_Indonesian_Translation_Sabeq_Company_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "japanese_saeedsato_Japanese_translation_Saeed_Sato",
+      "translation_key": "japanese",
+      "files_count": 5,
+      "total_size_bytes": 13294542,
+      "total_size_mb": 12.68,
+      "files": [
+        {
+          "filename": "quranenc_japanese_saeedsato_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 5058048,
+          "size_mb": 4.82,
+          "relative_path": "translations\\japanese_saeedsato_Japanese_translation_Saeed_Sato\\quranenc_japanese_saeedsato_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato.epub",
+          "extension": ".epub",
+          "size_bytes": 1495830,
+          "size_mb": 1.43,
+          "relative_path": "translations\\japanese_saeedsato_Japanese_translation_Saeed_Sato\\quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato.epub"
+        },
+        {
+          "filename": "quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 2690371,
+          "size_mb": 2.57,
+          "relative_path": "translations\\japanese_saeedsato_Japanese_translation_Saeed_Sato\\quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_csv.csv"
+        },
+        {
+          "filename": "quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 844749,
+          "size_mb": 0.81,
+          "relative_path": "translations\\japanese_saeedsato_Japanese_translation_Saeed_Sato\\quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 3205544,
+          "size_mb": 3.06,
+          "relative_path": "translations\\japanese_saeedsato_Japanese_translation_Saeed_Sato\\quranenc_japanese_saeedsato_Japanese_translation_Saeed_Sato_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "khmer_cambodia_Khmer_translation_Islamic_Community_Development_Association",
+      "translation_key": "khmer",
+      "files_count": 1,
+      "total_size_bytes": 5477912,
+      "total_size_mb": 5.22,
+      "files": [
+        {
+          "filename": "quranenc_khmer_cambodia_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 5477912,
+          "size_mb": 5.22,
+          "relative_path": "translations\\khmer_cambodia_Khmer_translation_Islamic_Community_Development_Association\\quranenc_khmer_cambodia_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "khmer_rwwad_Khmer_translation_Rowwad_Translation_Center",
+      "translation_key": "khmer",
+      "files_count": 4,
+      "total_size_bytes": 13557726,
+      "total_size_mb": 12.93,
+      "files": [
+        {
+          "filename": "quranenc_khmer_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 5745647,
+          "size_mb": 5.48,
+          "relative_path": "translations\\khmer_rwwad_Khmer_translation_Rowwad_Translation_Center\\quranenc_khmer_rwwad_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 3377691,
+          "size_mb": 3.22,
+          "relative_path": "translations\\khmer_rwwad_Khmer_translation_Rowwad_Translation_Center\\quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 583346,
+          "size_mb": 0.56,
+          "relative_path": "translations\\khmer_rwwad_Khmer_translation_Rowwad_Translation_Center\\quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 3851042,
+          "size_mb": 3.67,
+          "relative_path": "translations\\khmer_rwwad_Khmer_translation_Rowwad_Translation_Center\\quranenc_khmer_rwwad_Khmer_translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki",
+      "translation_key": "kurdish",
+      "files_count": 3,
+      "total_size_bytes": 8119129,
+      "total_size_mb": 7.74,
+      "files": [
+        {
+          "filename": "quranenc_kurdish_bamoki_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4143911,
+          "size_mb": 3.95,
+          "relative_path": "translations\\kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki\\quranenc_kurdish_bamoki_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1750933,
+          "size_mb": 1.67,
+          "relative_path": "translations\\kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki\\quranenc_kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki_csv.csv"
+        },
+        {
+          "filename": "quranenc_kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2224285,
+          "size_mb": 2.12,
+          "relative_path": "translations\\kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki\\quranenc_kurdish_bamoki_Kurdish_translation_Muhammad_Salih_Bamoki_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov",
+      "translation_key": "kyrgyz",
+      "files_count": 5,
+      "total_size_bytes": 24058691,
+      "total_size_mb": 22.94,
+      "files": [
+        {
+          "filename": "quranenc_kyrgyz_hakimov_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4838280,
+          "size_mb": 4.61,
+          "relative_path": "translations\\kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov\\quranenc_kyrgyz_hakimov_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov.pdf",
+          "extension": ".pdf",
+          "size_bytes": 13081132,
+          "size_mb": 12.48,
+          "relative_path": "translations\\kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov\\quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov.pdf"
+        },
+        {
+          "filename": "quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 2470521,
+          "size_mb": 2.36,
+          "relative_path": "translations\\kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov\\quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_csv.csv"
+        },
+        {
+          "filename": "quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 709740,
+          "size_mb": 0.68,
+          "relative_path": "translations\\kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov\\quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2959018,
+          "size_mb": 2.82,
+          "relative_path": "translations\\kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov\\quranenc_kyrgyz_hakimov_Kyrgyz_translation_Shamsuddin_Hakimov_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "lithuanian_rwwad_Lithuanian_Translation_Rowwad_Translation_Center",
+      "translation_key": "lithuanian",
+      "files_count": 1,
+      "total_size_bytes": 3655813,
+      "total_size_mb": 3.49,
+      "files": [
+        {
+          "filename": "quranenc_lithuanian_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3655813,
+          "size_mb": 3.49,
+          "relative_path": "translations\\lithuanian_rwwad_Lithuanian_Translation_Rowwad_Translation_Center\\quranenc_lithuanian_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "macedonian_group_Macedonian_translation_a_group_of_Macedonian_scholars",
+      "translation_key": "macedonian",
+      "files_count": 1,
+      "total_size_bytes": 3981383,
+      "total_size_mb": 3.8,
+      "files": [
+        {
+          "filename": "quranenc_macedonian_group_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3981383,
+          "size_mb": 3.8,
+          "relative_path": "translations\\macedonian_group_Macedonian_translation_a_group_of_Macedonian_scholars\\quranenc_macedonian_group_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center",
+      "translation_key": "pashto",
+      "files_count": 3,
+      "total_size_bytes": 7193192,
+      "total_size_mb": 6.86,
+      "files": [
+        {
+          "filename": "quranenc_pashto_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3818414,
+          "size_mb": 3.64,
+          "relative_path": "translations\\pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center\\quranenc_pashto_rwwad_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1450539,
+          "size_mb": 1.38,
+          "relative_path": "translations\\pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center\\quranenc_pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1924239,
+          "size_mb": 1.84,
+          "relative_path": "translations\\pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center\\quranenc_pashto_rwwad_Pashto_Translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "persian_ih_Persian_translation_Rowwad_Translation_Center",
+      "translation_key": "persian",
+      "files_count": 5,
+      "total_size_bytes": 26991016,
+      "total_size_mb": 25.74,
+      "files": [
+        {
+          "filename": "quranenc_persian_ih_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4044764,
+          "size_mb": 3.86,
+          "relative_path": "translations\\persian_ih_Persian_translation_Rowwad_Translation_Center\\quranenc_persian_ih_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center.epub",
+          "extension": ".epub",
+          "size_bytes": 1126923,
+          "size_mb": 1.07,
+          "relative_path": "translations\\persian_ih_Persian_translation_Rowwad_Translation_Center\\quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center.epub"
+        },
+        {
+          "filename": "quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center.pdf",
+          "extension": ".pdf",
+          "size_bytes": 17991866,
+          "size_mb": 17.16,
+          "relative_path": "translations\\persian_ih_Persian_translation_Rowwad_Translation_Center\\quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center.pdf"
+        },
+        {
+          "filename": "quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1677085,
+          "size_mb": 1.6,
+          "relative_path": "translations\\persian_ih_Persian_translation_Rowwad_Translation_Center\\quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2150378,
+          "size_mb": 2.05,
+          "relative_path": "translations\\persian_ih_Persian_translation_Rowwad_Translation_Center\\quranenc_persian_ih_Persian_translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "portuguese_nasr_Portuguese_translation_Helmi_Nasr",
+      "translation_key": "portuguese",
+      "files_count": 7,
+      "total_size_bytes": 33404197,
+      "total_size_mb": 31.86,
+      "files": [
+        {
+          "filename": "quranenc_portuguese_nasr_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3300269,
+          "size_mb": 3.15,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr.epub",
+          "extension": ".epub",
+          "size_bytes": 979100,
+          "size_mb": 0.93,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr.epub"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr.pdf",
+          "extension": ".pdf",
+          "size_bytes": 17585700,
+          "size_mb": 16.77,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr.pdf"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 932532,
+          "size_mb": 0.89,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_csv.csv"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 396461,
+          "size_mb": 0.38,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 8808566,
+          "size_mb": 8.4,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_pure.pdf"
+        },
+        {
+          "filename": "quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1401569,
+          "size_mb": 1.34,
+          "relative_path": "translations\\portuguese_nasr_Portuguese_translation_Helmi_Nasr\\quranenc_portuguese_nasr_Portuguese_translation_Helmi_Nasr_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "romanian_project_Romanian_translation_Islam4ro.com",
+      "translation_key": "romanian",
+      "files_count": 5,
+      "total_size_bytes": 27664665,
+      "total_size_mb": 26.38,
+      "files": [
+        {
+          "filename": "quranenc_romanian_project_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3537431,
+          "size_mb": 3.37,
+          "relative_path": "translations\\romanian_project_Romanian_translation_Islam4ro.com\\quranenc_romanian_project_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_romanian_project_Romanian_translation_Islam4ro.com_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1169625,
+          "size_mb": 1.12,
+          "relative_path": "translations\\romanian_project_Romanian_translation_Islam4ro.com\\quranenc_romanian_project_Romanian_translation_Islam4ro.com_csv.csv"
+        },
+        {
+          "filename": "quranenc_romanian_project_Romanian_translation_Islam4ro.com_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 494232,
+          "size_mb": 0.47,
+          "relative_path": "translations\\romanian_project_Romanian_translation_Islam4ro.com\\quranenc_romanian_project_Romanian_translation_Islam4ro.com_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_romanian_project_Romanian_translation_Islam4ro.com_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 20806907,
+          "size_mb": 19.84,
+          "relative_path": "translations\\romanian_project_Romanian_translation_Islam4ro.com\\quranenc_romanian_project_Romanian_translation_Islam4ro.com_pure.pdf"
+        },
+        {
+          "filename": "quranenc_romanian_project_Romanian_translation_Islam4ro.com_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1656470,
+          "size_mb": 1.58,
+          "relative_path": "translations\\romanian_project_Romanian_translation_Islam4ro.com\\quranenc_romanian_project_Romanian_translation_Islam4ro.com_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "serbian_rwwad_Serbian_translation_Rowwad_Translation_Center",
+      "translation_key": "serbian",
+      "files_count": 1,
+      "total_size_bytes": 3784471,
+      "total_size_mb": 3.61,
+      "files": [
+        {
+          "filename": "quranenc_serbian_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3784471,
+          "size_mb": 3.61,
+          "relative_path": "translations\\serbian_rwwad_Serbian_translation_Rowwad_Translation_Center\\quranenc_serbian_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "spanish_garcia_Spanish_Translation_Isa_Garcia",
+      "translation_key": "spanish",
+      "files_count": 4,
+      "total_size_bytes": 7068383,
+      "total_size_mb": 6.74,
+      "files": [
+        {
+          "filename": "quranenc_spanish_garcia_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3596090,
+          "size_mb": 3.43,
+          "relative_path": "translations\\spanish_garcia_Spanish_Translation_Isa_Garcia\\quranenc_spanish_garcia_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1228225,
+          "size_mb": 1.17,
+          "relative_path": "translations\\spanish_garcia_Spanish_Translation_Isa_Garcia\\quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_csv.csv"
+        },
+        {
+          "filename": "quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 530646,
+          "size_mb": 0.51,
+          "relative_path": "translations\\spanish_garcia_Spanish_Translation_Isa_Garcia\\quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1713422,
+          "size_mb": 1.63,
+          "relative_path": "translations\\spanish_garcia_Spanish_Translation_Isa_Garcia\\quranenc_spanish_garcia_Spanish_Translation_Isa_Garcia_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "spanish_montada_eu_Spanish_translation_issued_by_Noor_International",
+      "translation_key": "spanish",
+      "files_count": 1,
+      "total_size_bytes": 3831443,
+      "total_size_mb": 3.65,
+      "files": [
+        {
+          "filename": "quranenc_spanish_montada_eu_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3831443,
+          "size_mb": 3.65,
+          "relative_path": "translations\\spanish_montada_eu_Spanish_translation_issued_by_Noor_International\\quranenc_spanish_montada_eu_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "tagalog_rwwad_Filipino_(Tagalog)_translation-_Rowwad_Translation_Center",
+      "translation_key": "tagalog",
+      "files_count": 1,
+      "total_size_bytes": 3588758,
+      "total_size_mb": 3.42,
+      "files": [
+        {
+          "filename": "quranenc_tagalog_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3588758,
+          "size_mb": 3.42,
+          "relative_path": "translations\\tagalog_rwwad_Filipino_(Tagalog)_translation-_Rowwad_Translation_Center\\quranenc_tagalog_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "tajik_arifi_Tajik_translation_Rowwad_Translation_Center",
+      "translation_key": "tajik",
+      "files_count": 5,
+      "total_size_bytes": 20033421,
+      "total_size_mb": 19.11,
+      "files": [
+        {
+          "filename": "quranenc_tajik_arifi_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4249043,
+          "size_mb": 4.05,
+          "relative_path": "translations\\tajik_arifi_Tajik_translation_Rowwad_Translation_Center\\quranenc_tajik_arifi_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center.pdf",
+          "extension": ".pdf",
+          "size_bytes": 11010800,
+          "size_mb": 10.5,
+          "relative_path": "translations\\tajik_arifi_Tajik_translation_Rowwad_Translation_Center\\quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center.pdf"
+        },
+        {
+          "filename": "quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1881362,
+          "size_mb": 1.79,
+          "relative_path": "translations\\tajik_arifi_Tajik_translation_Rowwad_Translation_Center\\quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 537773,
+          "size_mb": 0.51,
+          "relative_path": "translations\\tajik_arifi_Tajik_translation_Rowwad_Translation_Center\\quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2354443,
+          "size_mb": 2.25,
+          "relative_path": "translations\\tajik_arifi_Tajik_translation_Rowwad_Translation_Center\\quranenc_tajik_arifi_Tajik_translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "turkish_rwwad_Turkish_translation_Rowwad_Translation_Center",
+      "translation_key": "turkish",
+      "files_count": 1,
+      "total_size_bytes": 3353111,
+      "total_size_mb": 3.2,
+      "files": [
+        {
+          "filename": "quranenc_turkish_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3353111,
+          "size_mb": 3.2,
+          "relative_path": "translations\\turkish_rwwad_Turkish_translation_Rowwad_Translation_Center\\quranenc_turkish_rwwad_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "turkish_shaban_Turkish_Translation_Shaaban_British",
+      "translation_key": "turkish",
+      "files_count": 4,
+      "total_size_bytes": 6054612,
+      "total_size_mb": 5.77,
+      "files": [
+        {
+          "filename": "quranenc_turkish_shaban_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3313376,
+          "size_mb": 3.16,
+          "relative_path": "translations\\turkish_shaban_Turkish_Translation_Shaaban_British\\quranenc_turkish_shaban_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 928559,
+          "size_mb": 0.89,
+          "relative_path": "translations\\turkish_shaban_Turkish_Translation_Shaaban_British\\quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_csv.csv"
+        },
+        {
+          "filename": "quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 411143,
+          "size_mb": 0.39,
+          "relative_path": "translations\\turkish_shaban_Turkish_Translation_Shaaban_British\\quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 1401534,
+          "size_mb": 1.34,
+          "relative_path": "translations\\turkish_shaban_Turkish_Translation_Shaaban_British\\quranenc_turkish_shaban_Turkish_Translation_Shaaban_British_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "turkish_shahin_Turkish_translation_Dr._Ali_Ozek_and_others",
+      "translation_key": "turkish",
+      "files_count": 1,
+      "total_size_bytes": 3395104,
+      "total_size_mb": 3.24,
+      "files": [
+        {
+          "filename": "quranenc_turkish_shahin_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3395104,
+          "size_mb": 3.24,
+          "relative_path": "translations\\turkish_shahin_Turkish_translation_Dr._Ali_Ozek_and_others\\quranenc_turkish_shahin_complete_translation.json"
+        }
+      ]
+    },
+    {
+      "directory": "uyghur_saleh_Uyghur_translation_Muhammad_Saleh",
+      "translation_key": "uyghur",
+      "files_count": 4,
+      "total_size_bytes": 10069249,
+      "total_size_mb": 9.6,
+      "files": [
+        {
+          "filename": "quranenc_uyghur_saleh_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4589166,
+          "size_mb": 4.38,
+          "relative_path": "translations\\uyghur_saleh_Uyghur_translation_Muhammad_Saleh\\quranenc_uyghur_saleh_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 2221490,
+          "size_mb": 2.12,
+          "relative_path": "translations\\uyghur_saleh_Uyghur_translation_Muhammad_Saleh\\quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_csv.csv"
+        },
+        {
+          "filename": "quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 563755,
+          "size_mb": 0.54,
+          "relative_path": "translations\\uyghur_saleh_Uyghur_translation_Muhammad_Saleh\\quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2694838,
+          "size_mb": 2.57,
+          "relative_path": "translations\\uyghur_saleh_Uyghur_translation_Muhammad_Saleh\\quranenc_uyghur_saleh_Uyghur_translation_Muhammad_Saleh_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "uzbek_mansour_Uzbek_translation_Alaauddin_Mansour",
+      "translation_key": "uzbek",
+      "files_count": 4,
+      "total_size_bytes": 11370851,
+      "total_size_mb": 10.84,
+      "files": [
+        {
+          "filename": "quranenc_uzbek_mansour_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4980737,
+          "size_mb": 4.75,
+          "relative_path": "translations\\uzbek_mansour_Uzbek_translation_Alaauddin_Mansour\\quranenc_uzbek_mansour_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 2613062,
+          "size_mb": 2.49,
+          "relative_path": "translations\\uzbek_mansour_Uzbek_translation_Alaauddin_Mansour\\quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_csv.csv"
+        },
+        {
+          "filename": "quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 684313,
+          "size_mb": 0.65,
+          "relative_path": "translations\\uzbek_mansour_Uzbek_translation_Alaauddin_Mansour\\quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 3092739,
+          "size_mb": 2.95,
+          "relative_path": "translations\\uzbek_mansour_Uzbek_translation_Alaauddin_Mansour\\quranenc_uzbek_mansour_Uzbek_translation_Alaauddin_Mansour_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center",
+      "translation_key": "uzbek",
+      "files_count": 8,
+      "total_size_bytes": 90952673,
+      "total_size_mb": 86.74,
+      "files": [
+        {
+          "filename": "quranenc_uzbek_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 3919091,
+          "size_mb": 3.74,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_complete_translation.json"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center.epub",
+          "extension": ".epub",
+          "size_bytes": 1040539,
+          "size_mb": 0.99,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center.epub"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center.pdf",
+          "extension": ".pdf",
+          "size_bytes": 42429693,
+          "size_mb": 40.46,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center.pdf"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_csv.csv",
+          "extension": ".csv",
+          "size_bytes": 1551405,
+          "size_mb": 1.48,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_csv.csv"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_excel.xlsx",
+          "extension": ".xlsx",
+          "size_bytes": 442116,
+          "size_mb": 0.42,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_excel.xlsx"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_mobile.pdf",
+          "extension": ".pdf",
+          "size_bytes": 12019456,
+          "size_mb": 11.46,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_mobile.pdf"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_pure.pdf",
+          "extension": ".pdf",
+          "size_bytes": 27525643,
+          "size_mb": 26.25,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_pure.pdf"
+        },
+        {
+          "filename": "quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_xml.xml",
+          "extension": ".xml",
+          "size_bytes": 2024730,
+          "size_mb": 1.93,
+          "relative_path": "translations\\uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center\\quranenc_uzbek_rwwad_Uzbek_translation_Rowwad_Translation_Center_xml.xml"
+        }
+      ]
+    },
+    {
+      "directory": "vietnamese_rwwad_Vietnamese_translation_Rowwad_Translation_Center",
+      "translation_key": "vietnamese",
+      "files_count": 1,
+      "total_size_bytes": 4024768,
+      "total_size_mb": 3.84,
+      "files": [
+        {
+          "filename": "quranenc_vietnamese_rwwad_complete_translation.json",
+          "extension": ".json",
+          "size_bytes": 4024768,
+          "size_mb": 3.84,
+          "relative_path": "translations\\vietnamese_rwwad_Vietnamese_translation_Rowwad_Translation_Center\\quranenc_vietnamese_rwwad_complete_translation.json"
+        }
+      ]
+    }
+  ],
+  "api_info": {
+    "api_base_url": "https://quranenc.com/api/v1",
+    "translations_endpoint": "https://quranenc.com/api/v1/translations/list",
+    "sura_endpoint_pattern": "https://quranenc.com/api/v1/translation/sura/{translation_key}/{sura_number}",
+    "available_formats": [
+      "JSON (via API)",
+      "PDF",
+      "PDF Pure",
+      "PDF Mobile",
+      "EPUB",
+      "XML",
+      "CSV",
+      "Excel"
+    ]
+  },
+  "coverage_analysis": {
+    "languages_covered": 29,
+    "formats_found": [
+      ".csv",
+      ".xlsx",
+      ".xml",
+      ".json",
+      ".epub",
+      ".pdf"
+    ],
+    "most_common_format": ".json",
+    "largest_format_by_size": ".pdf"
+  }
+}

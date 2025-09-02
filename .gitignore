@@ -2,3 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Scraped databases - keep repo size manageable
+scrapped-databases/
+
+# Large files and database backups
+*.db
+*.sqlite
+scraped-databases/**/backup-dbs/
+**/*_pure.pdf
+**/translations/**/*.pdf

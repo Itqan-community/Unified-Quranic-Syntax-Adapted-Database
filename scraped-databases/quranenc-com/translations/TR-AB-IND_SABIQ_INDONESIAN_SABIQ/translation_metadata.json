@@ -1,0 +1,20 @@
+{
+  "content_framework": {
+    "category": "TR",
+    "description": "Translation",
+    "hierarchy": "AB",
+    "hierarchy_type": "Ayah-Based"
+  },
+  "translation_info": {
+    "key": "indonesian_sabiq",
+    "translator": "sabiq",
+    "language": "indonesian",
+    "direction": null,
+    "source": "Indonesian_Translation_Sabeq_Company"
+  },
+  "qcs_compliance": {
+    "version": "1.0",
+    "date": "2025-09-01",
+    "standard": "TR-AB-RESOURCE_NAME"
+  }
+}

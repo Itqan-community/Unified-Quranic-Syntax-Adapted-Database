@@ -8,7 +8,21 @@
       "Bash(mv:*)",
       "Bash(git add:*)",
       "Bash(pip install:*)",
-      "Bash(python test:*)"
+      "Bash(python test:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:qul.tarteel.ai)",
+      "Bash(sqlite3:*)",
+      "WebFetch(domain:downloads.qul.tarteel.ai)",
+      "WebSearch",
+      "Bash(dir \"scraped-databases\\quranenc-com\\*.csv\" /b)",
+      "Bash(taskkill:*)",
+      "Bash(dir:*)",
+      "Bash(git checkout:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(git reset:*)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []
