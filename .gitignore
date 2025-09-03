@@ -4,7 +4,7 @@
 .Ruserdata
 
 # Scraped databases - keep repo size manageable
-scrapped-databases/
+scraped-databases/
 
 # Large files and database backups
 *.db
